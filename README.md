@@ -148,4 +148,4 @@ Spec and plan for this feature: [`specs/001-forex-hours-visualiser/`](specs/001-
 
 ## See Also
 
-**[forex-market-zones-superpowers](../forex-market-zones-superpowers)** — the same Forex Market Hours Visualiser built with the Superpowers workflow. Useful as a side-by-side comparison of how the two approaches handle spec, planning, and implementation for an identical feature brief.
+**[forex-market-zones-superpowers](https://github.com/peterpuglisi/forex-market-zones-superpowers)** — the same Forex Market Hours Visualiser built with the Superpowers workflow. Useful as a side-by-side comparison of how the two approaches handle spec, planning, and implementation for an identical feature brief.
