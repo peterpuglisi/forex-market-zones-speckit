@@ -1,0 +1,23 @@
+# SpecKit / Claude Code installed infrastructure
+.specify/
+.claude/
+
+# Node / Next.js frontend
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/coverage/
+frontend/.env*
+
+# OS
+.DS_Store
+Thumbs.db
+*.tmp
+*.swp
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
